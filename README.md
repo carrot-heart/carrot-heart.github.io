@@ -3,6 +3,8 @@
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://music.163.com/outchain/player?type=2&id=1325630938&auto=1&height=66"></iframe>
 
+> 阅读时建议播放Bit
+
 Hi, 我是carrot
 
 由于学业压力, 我只好与你们说再见了...
@@ -31,6 +33,8 @@ QWQ
 5. MEGALOVANIA 下载[戳这里](https://music.163.com/song/media/outer/url?id=39224659)
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="https://music.163.com/outchain/player?type=2&id=39224659&auto=0&height=32"></iframe>
 
+这里有一个歌单：[戳这里](https://music.163.com/playlist?id=13601353853)
+
 那么, 再见了。希望以后还有机会重聚...
 
 # 再见
@@ -39,11 +43,11 @@ QWQ
 #### 再见
 ##### 再见
 ###### 再见
-__**自然选择,前进四!!!**__
+**自然选择,前进四!!!**
 
 向wxy队长敬礼!
 
 向𝕱𝕽𝕰𝕰𝕯𝕺𝕸所有成员敬礼!
 
 向我的朋友们敬礼!
-<p align="right">——CARROT 2025</p>
+<p align="right">——CARROT 2025.02</p>
