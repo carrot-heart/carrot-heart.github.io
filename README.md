@@ -7,6 +7,8 @@
 
 Hi, 我是carrot
 
+当你看到这段文字时,你可能已经联系不上我了...
+
 由于学业压力, 我只好与你们说再见了...
 
 QWQ 
@@ -18,22 +20,18 @@ QWQ
 推荐几首歌:
 
 1. Bit 下载[戳这里](https://music.163.com/song/media/outer/url?id=1325630938)
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="https://music.163.com/outchain/player?type=2&id=1325630938&auto=0&height=32"></iframe>
 
 2. 夜航星 下载[戳这里](https://music.163.com/song/media/outer/url?id=1431292823)
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="https://music.163.com/outchain/player?type=2&id=1431292823&auto=0&height=32"></iframe>
 
 3. Intro 下载[戳这里](https://music.163.com/song/media/outer/url?id=4341314)
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="https://music.163.com/outchain/player?type=2&id=4341314&auto=0&height=32"></iframe>
 
 4. Criminals 下载[戳这里](https://carrot-heart.github.io/Criminals.m4a)
 
-似乎没有播放器...  TQT
-
 5. MEGALOVANIA 下载[戳这里](https://music.163.com/song/media/outer/url?id=39224659)
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="https://music.163.com/outchain/player?type=2&id=39224659&auto=0&height=32"></iframe>
 
 这里有一个歌单：[戳这里](https://music.163.com/playlist?id=13601353853)
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="https://music.163.com/outchain/player?type=0&id=13601353853&auto=0&height=430"></iframe>
 
 那么, 再见了。希望以后还有机会重聚...
 
