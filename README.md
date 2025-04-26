@@ -33,6 +33,8 @@ QWQ
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="https://music.163.com/outchain/player?type=0&id=13601353853&auto=0&height=430"></iframe>
 
+> 有些歌可能听不了, 请自行百度
+
 那么, 再见了。希望以后还有机会重聚...
 
 # 再见
