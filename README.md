@@ -50,4 +50,5 @@ QWQ
 向𝕱𝕽𝕰𝕰𝕯𝕺𝕸所有成员敬礼!
 
 向我的朋友们敬礼!
-<p align="right">——CARROT 2025.02</p>
+<p align="right">CARROT</p>
+<p align="right">2025.03.08</p>
