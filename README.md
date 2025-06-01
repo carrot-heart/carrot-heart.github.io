@@ -15,19 +15,9 @@ QWQ
 
 也不知道要说些什么...
 
+谢谢你们一直对我的陪伴
+
 如果想给我留言, 请用这个Email: [carrot.heart@hotmail.com](mailto:carrot.heart@hotmail.com)
-
-推荐几首歌:
-
-1. Bit 下载[戳这里](https://music.163.com/song/media/outer/url?id=1325630938)
-
-2. 夜航星 下载[戳这里](https://music.163.com/song/media/outer/url?id=1431292823)
-
-3. Intro 下载[戳这里](https://music.163.com/song/media/outer/url?id=4341314)
-
-4. Criminals 下载[戳这里](https://carrot-heart.github.io/Criminals.m4a)
-
-5. MEGALOVANIA 下载[戳这里](https://music.163.com/song/media/outer/url?id=39224659)
 
 这里有一个歌单：[戳这里](https://music.163.com/playlist?id=13601353853)
 
