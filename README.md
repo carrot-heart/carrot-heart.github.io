@@ -30,17 +30,17 @@ QWQ
 | 序号 | 歌曲名称                   | 艺术家/创作者                         |下载链接                                              |
 |------|---------------------------|--------------------------------------|-----------------------------------------------------|
 | 1    | Bit                       | Chris Larkin & Matt Trobbiani        |http://music.163.com/song/media/outer/url?id=1325630938|
-| 2    | Collapsing World          | Lightscape                           |http://music.163.com/song/media/outer/url?id=38018486|
-| 3    | Eutopia                   | Yooh                                 |http://music.163.com/song/media/outer/url?id=29129889|
-| 4    | The Day of Unknown        | 陈雪燃                                |http://music.163.com/song/media/outer/url?id=2019330333|
+| 2    | Collapsing World          | Lightscape                           |http://carrot-heart.github.io/playlist/Lightscape - Collapsing World.mp3|
+| 3    | Eutopia                   | Yooh                                 |http://carrot-heart.github.io/playlist/Yooh - Eutopia.mp3|
+| 4    | The Day of Unknown        | 陈雪燃                                |http://carrot-heart.github.io/playlist/The Day of Unknown.mp3|
 | 5    | Stronger Than You         | Chara Parody                         |http://music.163.com/song/media/outer/url?id=410519017|
 | 6    | 时光尽头的记忆            | 浮云之                                 |http://music.163.com/song/media/outer/url?id=34057955|
-| 7    | 若月亮没来                | 王宇宙Leto / 乔浚丞                    |http://music.163.com/song/media/outer/url?id=2119795491|
+| 7    | 若月亮没来                | 王宇宙Leto / 乔浚丞                    |http://carrot-heart.github.io/playlist/yueliang.mp3|
 | 8    | Flower Dance              | DJ Okawari                           |http://music.163.com/song/media/outer/url?id=406173|
 | 9    | 鳥の詩                    | Lia / VISUAL ARTS / Key               |http://music.163.com/song/media/outer/url?id=28151022|
 | 10   | 我们的冒险                | 戚猛                                   |http://music.163.com/song/media/outer/url?id=1855804887|
-| 11   | Take Me Hand              | Cécile Corbel                         |http://music.163.com/song/media/outer/url?id=1500439504|
-| 12   | Criminals                 | F.O.O.L                               |http://music.163.com/song/media/outer/url?id=1435850557|
+| 11   | Take Me Hand              | Cécile Corbel                         |http://carrot-heart.github.io/playlist/Cecile Corbel - Take Me Hand.mp3|
+| 12   | Criminals                 | F.O.O.L                               |http://carrot-heart.github.io/playlist/F.O.O.L - Criminals.mp3|
 | 13   | 水木道                    | 宿涵 / Swang多雷                       |http://music.163.com/song/media/outer/url?id=525016797|
 | 14   | Payload                   | Remi Gallego                          |http://music.163.com/song/media/outer/url?id=1322031296|
 | 15   | Theatre Creatore          | Toby Fox / かめりあ                    |http://music.163.com/song/media/outer/url?id=2654131812|
