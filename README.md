@@ -1,3 +1,5 @@
+> 注意：本文的内容仅供参考
+
 # CARROT'S LAST WORD 
 ### CARROT最后的话(不是遗书QWQ)
 
